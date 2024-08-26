@@ -1,0 +1,174 @@
+{
+    "@@locale": "en",
+    "appName": "Twenty",
+    "@appName": {
+        "description": "The name of the application."
+    },
+    "slogan": "Relax your eyes",
+    "@slogan": {
+        "description": "The slogan of the app."
+    },
+    "runInfo": "Twenty is paused while you have this settings screen open.",
+    "@runInfo": {
+        "description": "Banner that explains that the application is paused while in settings."
+    },
+    "runTwenty": "Run Twenty",
+    "@runTwenty": {
+        "description": "Toggle to run activate and deactivate Twenty"
+    },
+    "runTwentyInfo": "You get a reminder every 20 min to look away from your screen.",
+    "@runTwentyInfo": {
+        "description": "Description of the run twenty toggle"
+    },
+    "startMinimized": "Start minimized",
+    "@startMinimized": {
+        "description": "Toggle to start the application minimized"
+    },
+    "launchAtStartup": "Launch at startup",
+    "@launchAtStartup": {
+        "description": "Toggle to launch the application at startup"
+    },
+    "sounds": "Sounds",
+    "@sounds": {
+        "description": "Toggle to run activate and deactivate sounds"
+    },
+    "soundsInfo": "Use sounds for reminders.",
+    "@soundsInfo": {
+        "description": "Description of the sounds toggle"
+    },
+    "useTimerSound": "Use sounds for the timer",
+    "@useTimerSound": {
+        "description": "Toggle for using a sound for each relaxation timer timer tick."
+    },
+    "appDesign": "App Design",
+    "@appDesign": {
+        "description": "Tile for selecting the app design (dark, light, system)"
+    },
+    "appDesignInfo": "Chose the appearance of the app.",
+    "@appDesignInfo": {
+        "description": "Description of the app design tile"
+    },
+    "dark": "Dark",
+    "light": "Light",
+    "system": "System",
+    "showOnboarding": "Show onboarding",
+    "@showOnboarding": {
+        "description": "Action to start the onboarding process again."
+    },
+    "lookAway": "Look away!",
+    "@lookAway": {
+        "description": "Message to look away after the timer finished."
+    },
+    "focusOn": "Focus on something 20 feet away.",
+    "@focusOn": {
+        "description": "Request to look at something 20 feet away."
+    },
+    "remaining": "remaining",
+    "@remaining": {
+        "description": "Info on how many seconds are remaining"
+    },
+    "dontLook": "Don't look at the screen",
+    "@dontLook": {
+        "description": "Request to not look at the screen while the focus timer is running."
+    },
+    "wellDone": "Well done",
+    "@wellDone": {
+        "description": "Gratulation message after the focus timer."
+    },
+    "eyesAreRelaxed": "Your eyes are relaxed now.",
+    "@eyesAreRelaxed": {
+        "description": "Message after the focus timer that encourages the relaxing effect."
+    },
+    "back": "Back",
+    "@back": {
+        "description": "Action to go back."
+    },
+    "cancel": "Cancel",
+    "@cancel": {
+        "description": "Action to go cancel."
+    },
+    "exit": "Exit",
+    "@exit": {
+        "description": "Action to go exit."
+    },
+    "exitSetup": "Exit setup?",
+    "@exitSetup": {
+        "description": "Dialog heading when trying to exit the onboarding."
+    },
+    "exitSetupInfo": "Are you sure you want to exit the setup?",
+    "@exitSetupInfo": {
+        "description": "Dialog info when trying to exit the onboarding."
+    },
+    "twentyRule": "The 20-20-20 rule",
+    "@twentyRule": {
+        "description": "Name of the 20-20-20 rule. Used as a heading in the onboarding."
+    },
+    "continueAction": "Continue",
+    "@continueAction": {
+        "description": "Action to continue."
+    },
+    "getStarted": "Get started",
+    "@getStarted": {
+        "description": "Action to get started with the onboarding."
+    },
+    "explainTimerPrefix": "Every",
+    "@explainTimerPrefix": {
+        "description": "Explanation of the  20 min timer. Part before Twenty (example: '**Every** twenty minutes')."
+    },
+    "explainTimerSuffix": "minutes",
+    "@explainTimerSuffix": {
+        "description": "Explanation of the  20 min timer. Part after Twenty (example: 'Every twenty **minutes**')."
+    },
+    "explainBreakPrefix": "Take a",
+    "@explainBreakPrefix": {
+        "description": "Explanation of the 20 second break. Part before Twenty (example: '**Every** twenty minutes')."
+    },
+    "explainBreakSuffix": "second break",
+    "@explainBreakSuffix": {
+        "description": "Explanation of the 20 second break. Part after Twenty (example: 'Every twenty **minutes**')."
+    },
+    "explainFocusPrefix": "And focus on something",
+    "@explainFocusPrefix": {
+        "description": "Explanation of the focus. Part before Twenty (example: '**Every** twenty minutes')."
+    },
+    "explainFocusSuffix": "feet away",
+    "@explainFocusSuffix": {
+        "description": "Explanation of the focus. Part after Twenty (example: 'Every twenty **minutes**')."
+    },
+    "helpsRelax": "This helps relax the eye muscles and reduce the risk of digital eye strain.",
+    "@helpsRelax": {
+        "description": "Explanation of the benefits of the 20-20-20 rule"
+    },
+    "twentyPrompt": "helps you by reminding you to take a break and look into the distance.",
+    "@twentyPrompt": {
+        "description": "Prompt that describes how twenty helps follow the 20-20-20 rule."
+    },
+    "runsInBackground": "runs in the background",
+    "@runsInBackground": {
+        "description": "Info that twenty runs in the background."
+    },
+    "wishToChangeSettings": "If you wish to change some settings you can always find twenty in the ",
+    "@wishToChangeSettings": {
+        "description": "Info to direct the user to the settings."
+    },
+    "systemTray": "system tray",
+    "@systemTray": {
+        "description": "Describes where to find twenty"
+    },
+    "systemTrayTooltipPrefix": "Find the",
+    "@systemTrayTooltipPrefix": {
+        "description": "Tooltip that describes where to find twenty. Part before the twenty icon."
+    },
+    "systemTrayTooltipSuffix": "icon at the bottom-right corner of your screen. If you don`t see it, click the upward arrow to reveal more.",
+    "@systemTrayTooltipSuffix": {
+        "description": "icon at the bottom-right corner of your screen. If you don`t see it, click the upward arrow to reveal more."
+    },
+    "startTwenty": "Start twenty",
+    "@startTwenty": {
+        "description": "Action to start twenty"
+    },
+    "twenty": "twenty",
+    "@twenty": {
+        "description": "The number 20. Unlike the app title this should be translated."
+    }
+}
