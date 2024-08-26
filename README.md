@@ -17,7 +17,7 @@ Twenty is an open source Windows application designed to help you follow the [20
 
 ## Getting Started
 
-You can download Twenty from the releases.
+You can download Twenty from the [releases](https://github.com/RoundedInfinity/twenty/releases).
 
 You can also compile the source code yourself, by following these steps:
 
