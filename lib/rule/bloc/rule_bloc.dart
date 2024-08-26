@@ -78,7 +78,7 @@ class RuleBloc extends Bloc<RuleEvent, RuleState> {
     RuleLookAwayStarted event,
     Emitter<RuleState> emit,
   ) async {
-    emit(RuleShouldLookAway());
+    emit(const RuleShouldLookAway());
     await _windowRepository.showToast();
 
     await Future<void>.delayed(Duration(seconds: event.promptDuration));
@@ -110,7 +110,7 @@ class RuleBloc extends Bloc<RuleEvent, RuleState> {
     if (event.secondsLeft > 0) {
       emit(RuleLookingAway(secondsLeft: event.secondsLeft));
     } else {
-      emit(RuleLookedAway());
+      emit(const RuleLookedAway());
       await _tickerSubscription?.cancel();
       await Future<void>.delayed(Duration(seconds: event.promptDuration));
 

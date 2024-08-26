@@ -31,8 +31,9 @@ class PromptPage extends StatelessWidget {
                     style: style,
                     transitionBuilder: (child, animation) {
                       final slide = Tween<Offset>(
-                              begin: const Offset(0, 0.3), end: Offset.zero)
-                          .animate(animation);
+                        begin: const Offset(0, 0.3),
+                        end: Offset.zero,
+                      ).animate(animation);
                       return ScaleTransition(
                         scale: animation,
                         child: SlideTransition(

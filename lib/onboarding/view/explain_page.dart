@@ -21,13 +21,17 @@ class ExplainPage extends StatelessWidget {
                 Text(
                   t.appName,
                   style: const TextStyle(
-                      fontSize: 36, fontWeight: FontWeight.w600),
+                    fontSize: 36,
+                    fontWeight: FontWeight.w600,
+                  ),
                 ),
                 const SizedBox(height: 32),
                 Text(
                   t.twentyRule,
                   style: const TextStyle(
-                      fontSize: 16, fontWeight: FontWeight.w600),
+                    fontSize: 16,
+                    fontWeight: FontWeight.w600,
+                  ),
                 ),
                 _Item(
                   icon: FluentIcons.hourglass_three_quarter_24_regular,

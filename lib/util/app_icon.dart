@@ -10,6 +10,7 @@ class AppIcon extends StatelessWidget {
     return SvgPicture.asset(
       'assets/icon/icon.svg',
       semanticsLabel: 'App icon',
+      // ignore: deprecated_member_use
       color: theme.brightness == Brightness.dark ? Colors.white : null,
     );
   }

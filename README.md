@@ -3,13 +3,13 @@
 [![style: very good analysis][very_good_analysis_badge]][very_good_analysis_link]
 [![License: MIT][license_badge]][license_link]
 
-Twenty is an open-source Windows application designed to help you follow the [20-20-20 rule](https://www.medicalnewstoday.com/articles/321536), a simple method to prevent eye strain by taking regular breaks. 
+Twenty is an open source Windows application designed to help you follow the [20-20-20 rule](https://www.medicalnewstoday.com/articles/321536), a simple method to prevent eye strain by taking regular breaks. 
 
 ## Features
 
 - Visual and audible notifications that remind you to relax your eyes 🏝️
 - Beautiful native design 🎨
-- free and open-source 🎉
+- free and open source 🎉
 
 ## Screenshots
 ![Screenshot of twenty](./doc/screenshots/toast.png)

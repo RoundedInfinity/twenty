@@ -18,8 +18,9 @@ class BlurTransition extends AnimatedWidget {
     final animation = listenable as Animation<double>;
     return ImageFiltered(
       imageFilter: ImageFilter.blur(
-          sigmaX: animation.value * blurStrength,
-          sigmaY: animation.value * blurStrength),
+        sigmaX: animation.value * blurStrength,
+        sigmaY: animation.value * blurStrength,
+      ),
       child: child,
     );
   }
