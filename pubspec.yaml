@@ -12,7 +12,7 @@ dependencies:
   clever_settings: ^0.1.2+1
   clever_settings_flutter: ^0.1.1+1
   fluent_ui: ^4.9.1
-  fluentui_system_icons: ^1.1.254
+  fluentui_system_icons: ^1.1.257
   fluid_animations: ^1.0.0
   flutter:
     sdk: flutter
