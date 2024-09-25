@@ -277,10 +277,10 @@ packages:
     dependency: "direct main"
     description:
       name: fluid_animations
-      sha256: "3dde71855719f750f98045494a0bacfe8c1a183526e0c16f93e02df1a982c821"
+      sha256: "49712f7af3e0e0b27f05efa70b8bc3c1d3665343a51dbe61c30917e926ddcb88"
       url: "https://pub.dev"
     source: hosted
-    version: "1.0.0"
+    version: "1.1.0"
   flutter:
     dependency: "direct main"
     description: flutter
