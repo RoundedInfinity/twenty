@@ -27,7 +27,7 @@ dependencies:
   meta: ^1.15.0
   package_info_plus: ^8.0.2
   system_theme: ^3.0.0
-  tray_manager: ^0.2.3
+  tray_manager: ^0.2.4
   window_manager: ^0.4.2
 
 dev_dependencies:
