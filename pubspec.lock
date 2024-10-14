@@ -269,10 +269,10 @@ packages:
     dependency: "direct main"
     description:
       name: fluentui_system_icons
-      sha256: c8078acc222cfcfa2a1c8e881346961f2d846c8d4639f69ffda52865e9cb2913
+      sha256: "0ff2d03ca3b388c41750abbe6214dbf455b57c215c489155c97989b0a9d3f78d"
       url: "https://pub.dev"
     source: hosted
-    version: "1.1.254"
+    version: "1.1.260"
   fluid_animations:
     dependency: "direct main"
     description:
