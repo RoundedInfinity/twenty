@@ -7,7 +7,7 @@ environment:
   sdk: ^3.4.0
 
 dependencies:
-  audioplayers: ^6.0.0
+  audioplayers: ^6.1.0
   bloc: ^8.1.4
   clever_settings: ^0.1.2+1
   clever_settings_flutter: ^0.1.1+1
